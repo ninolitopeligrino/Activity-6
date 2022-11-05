@@ -1,4 +1,4 @@
-//First Come First Serve
+//First In First Out
 
 #include <iostream>
 using namespace std;

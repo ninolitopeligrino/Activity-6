@@ -12,10 +12,10 @@ void setup()
 
 void loop()
 {
-  first_come_first_serve(); //calling the function.
+  first_in_first_out(); //calling the function.
 }
 
-void first_come_first_serve(){
+void first_in_first_out(){
   int time[6] = {5000, 3000, 4000, 1000, 5000, 3000};
   //an array of time in milliseconds to be used in delay function.
   int count = 0; //used to identifies the element of time array.
